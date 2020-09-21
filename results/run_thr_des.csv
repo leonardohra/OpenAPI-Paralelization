@@ -1,0 +1,12 @@
+Latent Dirichlet Allocation (LDA),2,5,0.4763220796466902
+Latent Dirichlet Allocation (LDA),2,10,0.4585340083223929
+"Latent Semantic Analysis (LSA), aka Latent Semantic Index (LSI)",2,5,0.5069371817605959
+"Latent Semantic Analysis (LSA), aka Latent Semantic Index (LSI)",2,10,0.48162423409103927
+Non Negative Matrix Factorization (NMF),2,5,0.605665924854638
+Non Negative Matrix Factorization (NMF),2,10,0.6308111733468267
+Latent Dirichlet Allocation (LDA),3,5,0.48993271003714073
+Latent Dirichlet Allocation (LDA),3,10,0.4931675079617121
+"Latent Semantic Analysis (LSA), aka Latent Semantic Index (LSI)",3,5,0.6296106796834746
+"Latent Semantic Analysis (LSA), aka Latent Semantic Index (LSI)",3,10,0.5728991954418413
+Non Negative Matrix Factorization (NMF),3,5,0.6555184823727201
+Non Negative Matrix Factorization (NMF),3,10,0.6199766064980287
